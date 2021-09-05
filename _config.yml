@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Manjari Das"
+title                    : Manjari Das
 title_separator          : "-"
-name                     : &name "Manjari Das"
+name                     : &name "Manjari Das
 description              : &description "personal description"
 url                      : https://mqnjqrid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         : "Carnegie Mellon University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ScrQPVYAAAAJ"
-  email            :
+  email            : "manjarid@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
