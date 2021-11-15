@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: 'drpop: Efficient and Doubly Robust Population Size Estimation in R'
 collection: publications
+date: "November, 2021"
+excerpt: This paper presents a new R package to estimate the total population size
+  from incomplete lists. It discusses implementation, performance and comparison to
+  some of the existing packages.
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: http://academicpages.github.io/files/paper2.pdf
+citation: 'Das M, Kennedy EH (2021). drpop: Efficient and Doubly Robust Population
+  Size Estimation in R" arXiv preprint _to be added_'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper presents a new R package to estimate the total population size from incomplete lists. It discusses implementation, performance and comparison to some of the existing packages.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'Das M, Kennedy EH (2021). drpop: Efficient and Doubly Robust Population Size Estimation in R" arXiv preprint _to be added_'
