@@ -1,6 +1,7 @@
 ---
 title: "Doubly robust capture-recapture methods for estimating population size."
-permalink: https://arxiv.org/pdf/2104.14091
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper presents an efficient and doubly robust estimator of the total population size from incomplete lists. It uses tools like nonparametric statistics and efficiency theory. It also estimates the total number of war casualties in the Peru Internal Armed Conflict 1980-2000.'
 date: July, 2021
 venue: 'arXiv.org'
