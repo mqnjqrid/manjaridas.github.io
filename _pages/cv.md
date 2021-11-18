@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Overview)" ([download]({{file name = "/files/CV_Manjari_Das_detailed.odf"}})) the latest CV
+title: "CV (Overview)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+ ([download]({{file name = "https://www.Github.com/mqnjqrid/mqnjqrid.github.io/files/CV_Manjari_Das_detailed.odf"}})) the latest CV
 Education
 ======
 * Bachelors (Hons.) in Ststistics, Indian Statistical Institute, Kolkata, India, 2014
