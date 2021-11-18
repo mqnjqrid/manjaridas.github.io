@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Overview)" ([download the latest CV](/files/CV_Manjari_Das_detailed.pdf))
+title: "CV (Overview)" ([download]({{file name = "/files/CV_Manjari_Das_detailed.odf"}})) the latest CV
 permalink: /cv/
 author_profile: true
 redirect_from:
