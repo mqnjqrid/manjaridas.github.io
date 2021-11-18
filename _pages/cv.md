@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download the latest CV [here]("https://www.Github.com/mqnjqrid/mqnjqrid.github.io/files/CV_Manjari_Das_detailed.odf").
+Download the latest CV [here]("https://github.com/mqnjqrid/mqnjqrid.github.io/blob/master/files/CV_Manjari_Das_detailed.pdf").
  
 Education
 ======
