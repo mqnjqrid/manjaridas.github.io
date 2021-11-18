@@ -13,9 +13,9 @@ Download the latest CV [here](../files/CV_Manjari_Das.pdf).
  
 Education
 ======
-* Bachelors (Hons.) in Ststistics, Indian Statistical Institute, Kolkata, India, 2014
-* Masters in Ststistics (Math-stat-probability specialization), Indian Statistical Institute, Kolkata, India, 2016
 * Ph.D in Statistics and Data Science, Carnegie Mellon University, 2022 (expected)
+* Masters in Statistics (Math-stat-probability specialization), Indian Statistical Institute, Kolkata, India, 2016
+* Bachelors (Hons.) in Statistics, Indian Statistical Institute, Kolkata, India, 2014
 
 Research and publications
 ======
@@ -30,27 +30,26 @@ Software(s)
   
 Teaching
 ======
-As instructor
-====== 
-    <ul>{% for post in site.teaching %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
+   <ul>{% for post in site.teaching %}
+     {% include archive-single-cv.html %}
+   {% endfor %}</ul>
+
 As teaching assistant
 ======
-    * Modern Regression (Fall 2016, 2017, 2018)
-    * Introduction to Statistical Inference (Spring 2017, 2018)
-    * Introduction to Probability Modeling (Spring 2019)
-    * Advanced Data Analysis (Spring 2020)
-    * Engineering Statistics and Quality Control (Fall 2021).
-    * Deep Learning (Masters of Computational Finance, Summer 2019, Fall 2019)
-    * Machine Learning (Masters of Computational Finance, Fall 2019).
+   * Modern Regression (Fall 2016, 2017, 2018)
+   * Introduction to Statistical Inference (Spring 2017, 2018)
+   * Introduction to Probability Modeling (Spring 2019)
+   * Advanced Data Analysis (Spring 2020), Head TA
+   * Engineering Statistics and Quality Control (Fall 2021), Head TA
+   * Deep Learning (Masters of Computational Finance, Summer 2019, Fall 2019)
+   * Machine Learning (Masters of Computational Finance, Fall 2019)
   
 Industry experience
 ======
-* Summer 2020: Data Science Intern
-  * [Upstart Network Inc.](https://www.upstart.com/)
+* Summer 2020: Data Science Intern at [Upstart Network Inc.](https://www.upstart.com/)
   * Duties included: Data cleaning, feature extraction, model fitting and analysis.
-
+* Spring 2015: Student researcher at [Nationl Sample Survey Organization](http://mospi.nic.in/NSSOa), India
+  * Duties included: Processing large census data of commodities and analyzing the consumption pattern for different demographics.
 
 Leadership
 ======
