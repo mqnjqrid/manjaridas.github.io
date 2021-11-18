@@ -29,7 +29,7 @@ Publications
   
 Software(s)
 ======
-* R package [drpop]{https://CRAN.R-project.org/package=drpop} (version 0.0.3) to estimate efficient and doubly robust total population size estimate form list data. Development version is on [Github]{https://github.com/mqnjqrid/drpop}
+* R package [drpop](https://CRAN.R-project.org/package=drpop) (version 0.0.3) to estimate efficient and doubly robust total population size estimate form list data. Development version is on [Github](https://github.com/mqnjqrid/drpop)
 * R package sensipop to perform sensitivity analysis in total population size estimation problems (under development)
   
 Talks
