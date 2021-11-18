@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download the latest CV [here](../files/CV_Manjari_Das_detailed.pdf).
+Download the latest CV [here](../files/CV_Manjari_Das.pdf).
  
 Education
 ======
