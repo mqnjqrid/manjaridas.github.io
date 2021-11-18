@@ -30,11 +30,13 @@ Software(s)
   
 Teaching
 ======
- * As instructor
+As instructor
+====== 
     <ul>{% for post in site.teaching %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>
- * As teaching assistant
+As teaching assistant
+======
     * Modern Regression (Fall 2016, 2017, 2018)
     * Introduction to Statistical Inference (Spring 2017, 2018)
     * Introduction to Probability Modeling (Spring 2019)
