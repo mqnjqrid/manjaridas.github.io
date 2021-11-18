@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Overview)"
+title: "CV (Overview)" ([download the latest CV](/files/CV_Manjari_Das_detailed.pdf))
 permalink: /cv/
 author_profile: true
 redirect_from:
