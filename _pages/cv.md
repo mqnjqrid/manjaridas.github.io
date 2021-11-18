@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (Overview)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,12 +15,6 @@ Education
 * Masters in Ststistics (Math-stat-probability specialization), Indian Statistical Institute, Kolkata, India, 2016
 * Ph.D in Statistics and Data Science, Carnegie Mellon University, 2022 (expected)
 
-Work experience
-======
-* Summer 2020: Data Science Intern
-  * Upstart Network Inc.
-  * Duties included: Data cleaning, feature extraction, model fitting and analysis.
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -29,14 +23,8 @@ Publications
   
 Software(s)
 ======
-* R package [drpop](https://CRAN.R-project.org/package=drpop) (version 0.0.3) to estimate efficient and doubly robust total population size estimate form list data. Development version is on [Github](https://github.com/mqnjqrid/drpop)
+* R package [drpop](https://CRAN.R-project.org/package=drpop) (version 0.0.3 on [CRAN](https://CRAN.R-project.org)) to estimate efficient and doubly robust total population size estimate form list data. Development version is on [Github](https://github.com/mqnjqrid/drpop)
 * R package sensipop to perform sensitivity analysis in total population size estimation problems (under development)
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -44,6 +32,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Work experience
+======
+* Summer 2020: Data Science Intern
+  * [Upstart Network Inc.](https://www.upstart.com/)
+  * Duties included: Data cleaning, feature extraction, model fitting and analysis.
+
+
 Service and leadership
 ======
 * General secretary, vice-president and co-treasurer of Carnegie Mellon University Indian Graduate Student Association in 2017, 2018 and 2020.
