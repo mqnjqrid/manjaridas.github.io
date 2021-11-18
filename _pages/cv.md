@@ -17,7 +17,7 @@ Education
 * Masters in Ststistics (Math-stat-probability specialization), Indian Statistical Institute, Kolkata, India, 2016
 * Ph.D in Statistics and Data Science, Carnegie Mellon University, 2022 (expected)
 
-Publications
+Research and publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -30,17 +30,26 @@ Software(s)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * As instructor
+    <ul>{% for post in site.teaching %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+ * As teaching assistant
+    * Modern Regression (Fall 2016, 2017, 2018)
+    * Introduction to Statistical Inference (Spring 2017, 2018)
+    * Introduction to Probability Modeling (Spring 2019)
+    * Advanced Data Analysis (Spring 2020)
+    * Engineering Statistics and Quality Control (Fall 2021).
+    * Deep Learning (Masters of Computational Finance, Summer 2019, Fall 2019)
+    * Machine Learning (Masters of Computational Finance, Fall 2019).
   
-Work experience
+Industry experience
 ======
 * Summer 2020: Data Science Intern
   * [Upstart Network Inc.](https://www.upstart.com/)
   * Duties included: Data cleaning, feature extraction, model fitting and analysis.
 
 
-Service and leadership
+Leadership
 ======
 * General secretary, vice-president and co-treasurer of Carnegie Mellon University Indian Graduate Student Association in 2017, 2018 and 2020.
