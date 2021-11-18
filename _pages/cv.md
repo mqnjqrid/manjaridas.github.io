@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
- ([download]({{file name = "https://www.Github.com/mqnjqrid/mqnjqrid.github.io/files/CV_Manjari_Das_detailed.odf"}})) the latest CV
+Download the latest CV [here]("https://www.Github.com/mqnjqrid/mqnjqrid.github.io/files/CV_Manjari_Das_detailed.odf").
+ 
 Education
 ======
 * Bachelors (Hons.) in Ststistics, Indian Statistical Institute, Kolkata, India, 2014
