@@ -14,3 +14,10 @@ author_profile: true
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
+
+Ongoing
+======
+
+{% for post in site.ongoingresearch %}
+  {% include archive-single.html %}
+{% endfor %}
