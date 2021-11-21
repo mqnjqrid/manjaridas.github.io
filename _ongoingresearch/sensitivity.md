@@ -1,7 +1,7 @@
 ---
 title: Total population size estimation under partial identification using sensitivity analysis."
 collection: ongoingresearch
-permalink:
+permalink: /ongoingresearch/sensitivity
 excerpt: 'This paper presents an efficient and doubly robust estimator of the total population size from incomplete lists. It uses tools like nonparametric statistics and efficiency theory. It also estimates the total number of war casualties in the Peru Internal Armed Conflict 1980-2000.'
 date: Ongoing
 paperurl: 
