@@ -20,13 +20,18 @@ Education
 Research and publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% if post.url != "ongoing" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
   
 Ongoing
 ======
+  
   <u1>{% for post in site.ongoingresearch %}
-    {% include archive-single-cv.html %}
+    {% if post.url == "ongoing" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</u1>
   
 Software(s)
