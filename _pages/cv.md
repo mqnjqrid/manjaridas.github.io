@@ -27,11 +27,11 @@ Research and publications
   
 Ongoing
 ======
-   <u1>{% for post in site.publications %}
-     {% if post.paperurl == "ongoing" %}
-       {% include archive-single-cv.html %}
-     {% endif %}
-   {% endfor %}</u1>
+  <ul>{% for post in site.publications %}
+    {% if post.paperurl != "ongoing" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
   
 Software(s)
 ======
