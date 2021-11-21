@@ -22,7 +22,7 @@ Ongoing
 
 {% include base_path %}
 
-{% for post in site.ongoingresearch %}
+{% for post in site.publications %}
   {% if post.paperurl == "ongoing" %}
     {% include archive-single.html %}
   {% endif %}
