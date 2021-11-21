@@ -23,6 +23,12 @@ Research and publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Ongoing
+======
+  <u1>{% for post in site.ongoingresearch %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</u1>
+  
 Software(s)
 ======
 * R package [drpop](https://CRAN.R-project.org/package=drpop) (version 0.0.3 on [CRAN](https://CRAN.R-project.org)) to estimate efficient and doubly robust total population size estimate form list data. Development version is on [Github](https://github.com/mqnjqrid/drpop)
