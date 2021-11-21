@@ -12,7 +12,9 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications %}
-  {% include archive-single.html %}
+  {% if post.paperurl <> "ongoing" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 Ongoing
@@ -21,5 +23,7 @@ Ongoing
 {% include base_path %}
 
 {% for post in site.ongoingresearch %}
-  {% include archive-single.html %}
+  {% if post.paperurl == "ongoing" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
