@@ -9,8 +9,6 @@ paperurl: https://arxiv.org/abs/2111.07191
 citation: 'Das M, Kennedy EH (2021). drpop: Efficient and Doubly Robust Population
   Size Estimation in R" arXiv preprint:2111.07191'
 ---
-This paper presents a new R package to estimate the total population size from incomplete lists. It discusses implementation, performance and comparison to some of the existing packages.
+This paper presents a new R package to estimate the total population size from incomplete lists. It discusses implementation, performance and comparison to some of the existing packages. The development version is on [Github]{https://github.com/mqnjqrid/drpop}.
 
 [Download paper here](http://https://arxiv.org/pdf/2111.07191)
-
-Recommended citation: 'Das M, Kennedy EH (2021). drpop: Efficient and Doubly Robust Population Size Estimation in R" arXiv preprint arXiv:2111:07191'
