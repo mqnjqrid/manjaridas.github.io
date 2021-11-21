@@ -28,7 +28,7 @@ Research and publications
 Ongoing
 ======
   
-  <u1>{% for post in site.ongoingresearch %}
+  <u1>{% for post in site.publications %}
     {% if post.url == "ongoing" %}
       {% include archive-single-cv.html %}
     {% endif %}
