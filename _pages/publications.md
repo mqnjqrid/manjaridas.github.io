@@ -18,6 +18,8 @@ author_profile: true
 Ongoing
 ======
 
+{% include base_path %}
+
 {% for post in site.ongoingresearch %}
   {% include archive-single.html %}
 {% endfor %}
