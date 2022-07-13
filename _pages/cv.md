@@ -48,6 +48,7 @@ As teaching assistant
 ======
    * Modern Regression (Fall 2016, 2017, 2018)
    * Introduction to Statistical Inference (Spring 2017, 2018)
+   * Probability Theory and Random Processes (Spring 2022), Head TA
    * Introduction to Probability Modeling (Spring 2019)
    * Advanced Data Analysis (Spring 2020), Head TA
    * Engineering Statistics and Quality Control (Fall 2021), Head TA
@@ -58,9 +59,12 @@ Industry experience
 ======
 * Summer 2020: Data Science Intern at [Upstart Network Inc.](https://www.upstart.com/)
   * Duties included: Data cleaning, feature extraction, model fitting and analysis.
-* Spring 2015: Student researcher at [Nationl Sample Survey Organization](http://mospi.nic.in/NSSOa), India
+* Spring 2015: Winner of [Capital One](https://www.capitalone.com/) Data science competition.
+  * Developed model to identify loan defaulters.
+* Spring 2015: Student researcher at [National Sample Survey Organization](http://mospi.nic.in/NSSOa), India
   * Duties included: Processing large census data of commodities and analyzing the consumption pattern for different demographics.
 
 Leadership
 ======
 * General secretary, vice-president and co-treasurer of Carnegie Mellon University Indian Graduate Student Association in 2017, 2018 and 2020.
+* Volunteer at Women in Data Science Conference (WiDS)
