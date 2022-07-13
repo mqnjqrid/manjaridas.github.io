@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-Spring-teaching
 venue: "Carnegie Mellon University, Dietrich College of Humanities and Social Sciences"
-date: March-April, 2021
+date: March-April, 2021, 2022
 location: "Pittsburgh, USA"
 ---
 
