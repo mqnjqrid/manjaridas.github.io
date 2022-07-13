@@ -1,5 +1,5 @@
 ---
-title: "[Quantitative Social Science Scholars](https://www.cmu.edu/dietrich/qsss) program"
+title: "Quantitative Social Science Scholars [program](https://www.cmu.edu/dietrich/qsss)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-Spring-teaching
